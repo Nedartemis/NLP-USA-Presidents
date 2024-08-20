@@ -1,0 +1,16 @@
+
+
+corpus/report.json
+.vscode
+
+__pycache__
+.venv
+
+# resources of the teacher
+notebooks/Course_*
+
+# folder tests
+notebooks/tmp
+
+# tokenizer generated during tests
+notebooks/tokenizer.txt
